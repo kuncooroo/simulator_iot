@@ -1,0 +1,9 @@
+platform/laravel/vendor/
+platform/laravel/node_modules/
+platform/laravel/.env
+platform/laravel/storage/logs/*.log
+platform/laravel/storage/framework/cache/*
+platform/laravel/storage/framework/sessions/*
+platform/laravel/storage/framework/views/*
+.idea/
+.vscode/
